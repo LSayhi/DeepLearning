@@ -3,3 +3,5 @@
 
 project 1:基于神经网络的带通滤波器优化设计
 	version 1.0  time ：2017.12.17
+project 2:双频微带天线设计与神经网络优化
+	version 1.0  time : 2017.12.21
