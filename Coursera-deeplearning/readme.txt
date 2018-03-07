@@ -1,1 +1,0 @@
-Coursera Programing assignment for deep learing.ai by Andrew Ng
