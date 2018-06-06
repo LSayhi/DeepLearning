@@ -6,3 +6,5 @@
 说明：
 	model.m  文件是matlab程序
 	训练集测试集数据 文件夹是HFSS导出的原始数据和matlab预处理后的数据
+	Modeling and Synthesis of On-chip Multi-layer Spiral Inductor for Millimeter-wave Regime Based on ANN Method.pdf 为以此为基础发表的EI论文；
+	paper中第三部分ANN建模为本人工作
