@@ -11,5 +11,5 @@ project 2:双频微带天线设计与神经网络优化
 project 3:Coursera：deep learning深度学习 
 	version 1.0  start time : 2018.1.16-
 	
-project 3:宽频带范围螺旋电感DNN建模 
+project 4:宽频带范围螺旋电感DNN建模 
 	version 1.0  start time : 2018.5.8-
